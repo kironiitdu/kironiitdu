@@ -37,7 +37,7 @@
 
 <img height="48" src="https://i.stack.imgur.com/oWGrm.jpg" alt="csharp"> <img height="48" src="https://i.stack.imgur.com/IIo31.png" alt="aspnet"> <img height="48" src="https://i.stack.imgur.com/yyKuB.png" alt="webapi"> <img height="48" src="https://i.stack.imgur.com/PnmVz.png" alt="entityframework"> <img height="48" src="https://i.stack.imgur.com/lpa9T.png" alt="sqlserver"> <img height="48" src="https://i.stack.imgur.com/MdgyF.png" alt="js"> 
 <img height="48" src="https://i.stack.imgur.com/B9Tl9.jpg" alt="kendoUI">
-<img height="48" src="https://i.stack.imgur.com/BLt3h.png" alt="azure"> <img height="48" src="https://i.stack.imgur.com/JeLf4.png" alt="git"> 
+<img height="48" src="https://i.stack.imgur.com/BLt3h.png" alt="azure"> <img height="48" src="https://i.stack.imgur.com/JeLf4.png" alt="git"> <img height="48" src="https://i.stack.imgur.com/Rch1N.png" alt="azuredevopps"> 
 
 #### Development Stuffs:
 
