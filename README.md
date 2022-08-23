@@ -17,7 +17,7 @@
 
 </p>
 
-#### Now
+#### Currently
 
 - ✨ Contributing to [Microsoft Partner Center Rest API](https://docs.microsoft.com/en-us/rest/api/partner-center-rest/);
 - :fire: Interested in Web App and Cloud engineering;
