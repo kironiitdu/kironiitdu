@@ -25,7 +25,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Microsoft-Wicresoft**
+- 🏢 I'm currently working at <img height="12" src="https://i.stack.imgur.com/U1arX.png" alt="csharp"> **Microsoft-Wicresoft** 
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.yml`
 - 🌍 I'm mostly active within the **C# Asp.net core Community**
 - 🌱 Learning all about **WebApp, Azure**
