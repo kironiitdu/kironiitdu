@@ -39,7 +39,7 @@
 <img height="48" src="https://i.stack.imgur.com/B9Tl9.jpg" alt="kendoUI">
 <img height="48" src="https://i.stack.imgur.com/BLt3h.png" alt="azure"> <img height="48" src="https://i.stack.imgur.com/JeLf4.png" alt="git"> <img height="48" src="https://i.stack.imgur.com/Rch1N.png" alt="azuredevopps"> 
 
-#### Development Stuffs:
+#### Development Stuffs
 
 <b>⚡ Github Stats</b>
 <p float="left">
