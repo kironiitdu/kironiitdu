@@ -10,11 +10,6 @@
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
     <img src="https://img.shields.io/badge/Impact-603K-red" />
   </a>
-  <a href="https://github.com/kironiitdu?tab=repositories">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kironiitdu?color=green&label=followers&logo=github&style=social">
-  </a>
- 
-
 </p>
 
 > I’m a software engineer specializing in building Web Applications. I love building WebApplication using ASP.NET Core (MVC Razor Pages-Kendo UI). As for the backend, I work with ASP.NET Core WebAPIs & SQL following Clean Architecture Principles. I have extensive experience on Azure as well. 
