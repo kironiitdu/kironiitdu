@@ -1,6 +1,6 @@
-## Hi 👋, I'm Md Farid Uddin Kiron.
+<h1 align="center">Hi there, I'm Md Farid Uddin Kiron 👋</h1>
 
-<p align="left">
+<p align="center">
  <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9663070?color=orange&label=Stackoverflow&logo=stackoverflow&logoColor=orange&style=social">
   </a>
