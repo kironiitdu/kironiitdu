@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md Farid Uddin Kiron 👋</h1>
+<h1 align="center">Hi, I'm Md Farid Uddin Kiron 👋</h1>
 
 <p align="center">
  <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
