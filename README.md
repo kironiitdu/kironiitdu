@@ -5,16 +5,16 @@
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9663070?color=orange&label=Stackoverflow&logo=stackoverflow&logoColor=orange&style=social">
   </a>
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron?tab=answers">
-    <img src="https://img.shields.io/badge/ProblemSolved-455+-success" alt="Problem Solved" />
+    <img src="https://img.shields.io/badge/ProblemSolved-500+-success" alt="Problem Solved" />
   </a>
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
-    <img src="https://img.shields.io/badge/Impact-623K-red" />
+    <img src="https://img.shields.io/badge/Impact-701K-red" />
   </a>
 </p>
 
 > I’m a software engineer specializing in building Web Applications. I love building WebApplication using `ASP.NET Core` (`MVC Razor Pages`-`Kendo UI`). As for the backend, I work with `ASP.NET Core WebAPIs` & `SQL` following Clean Architecture Principles. I have extensive experience on `Azure` as well. 
 > 
-> I am an active community contributor too, where I try to assist developers resolving their development challenges. My [Stackoverflow](https://stackoverflow.com/users/9663070/md-farid-uddin-kiron) contains over `450+` detailed solution of various programming problems (linked to Github Repositories) around Microsoft Technologies that brings me around `603K` readers.
+> I am an active community contributor too, where I try to assist developers resolving their development challenges. My [Stackoverflow](https://stackoverflow.com/users/9663070/md-farid-uddin-kiron) contains over `500+` detailed solution of various programming problems (linked to Github Repositories) around Microsoft Technologies that brings me around `701+K` readers.
 
 
 
