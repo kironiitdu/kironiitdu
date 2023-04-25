@@ -5,10 +5,10 @@
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9663070?color=orange&label=Stackoverflow&logo=stackoverflow&logoColor=orange&style=social">
   </a>
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron?tab=answers">
-    <img src="https://img.shields.io/badge/ProblemSolved-500+-success" alt="Problem Solved" />
+    <img src="https://img.shields.io/badge/ProblemSolved-700+-success" alt="Problem Solved" />
   </a>
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
-    <img src="https://img.shields.io/badge/Impact-701K-red" />
+    <img src="https://img.shields.io/badge/Impact-850K-red" />
   </a>
 </p>
 
