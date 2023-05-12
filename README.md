@@ -14,7 +14,7 @@
 
 > I’m a software engineer specializing in building Web Applications. I love building WebApplication using `ASP.NET Core` (`MVC Razor Pages`-`Kendo UI`). As for the backend, I work with `ASP.NET Core WebAPIs` & `SQL` following Clean Architecture Principles. I have extensive experience on `Azure` as well. 
 > 
-> I am an active community contributor too, where I try to assist developers resolving their development challenges. My [Stackoverflow](https://stackoverflow.com/users/9663070/md-farid-uddin-kiron) contains over `500+` detailed solution of various programming problems (linked to Github Repositories) around Microsoft Technologies that brings me around `701+K` readers.
+> I am an active community contributor too, where I try to assist developers resolving their development challenges. My [Stackoverflow](https://stackoverflow.com/users/9663070/md-farid-uddin-kiron) contains over `700+` detailed solution of various programming problems (linked to Github Repositories) around Microsoft Technologies that brings me around `850+K` readers.
 
 
 
