@@ -55,7 +55,7 @@
  <a href="mailto:kironiitdu@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25>
 </a>
- <a href="https://www.linkedin.com/in/farid-uddin-kiron-%E2%9C%94%EF%B8%8F-044772b1/">
+ <a href="https://www.linkedin.com/in/farid-uddin-kiron-044772b1/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
  <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
