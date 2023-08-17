@@ -5,10 +5,10 @@
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/9663070?color=orange&label=Stackoverflow&logo=stackoverflow&logoColor=orange&style=social">
   </a>
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron?tab=answers">
-    <img src="https://img.shields.io/badge/ProblemSolved-700+-success" alt="Problem Solved" />
+    <img src="https://img.shields.io/badge/ProblemSolved-800+-success" alt="Problem Solved" />
   </a>
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
-    <img src="https://img.shields.io/badge/Impact-850K-red" />
+    <img src="https://img.shields.io/badge/Impact-1.6M-red" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.yml`
 - 🌍 I'm mostly active within the **C# Asp.net core Community**
 - 🌱 Learning all about **WebApp, Azure**
-- 💬 Ping me about **C#**, **Asp.net core**, **RestAPIs**, **SQL**, **Azure**
+- 💬 Ping me about **C#**, **Asp.net core**, **RestAPIs**, **SignalR Service** , **Microservice Architecture** **SQL**, **Azure**
 - 📫 Reach me: [github.com/md farid uddin kiron](https://github.com/kironiitdu/fariduddin.github.io)
 - 📝 Checkout my [Resume](https://github.com/kironiitdu/fariduddin.github.io) Or [Download](https://github.com/kironiitdu/fariduddin.github.io/blob/main/Resume_Md_Farid_Uddin.pdf)
 
