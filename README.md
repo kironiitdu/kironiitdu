@@ -30,7 +30,7 @@
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.yml`
 - 🌍 I'm mostly active within the **C# Asp.net core Community**
 - 🌱 Learning all about **WebApp, Azure**
-- 💬 Ping me about **C#**, **Asp.net core**, **RestAPIs**, **SignalR Service** , **Microservice Architecture** **SQL**, **Azure**
+- 💬 Ping me about **C#**, **Asp.net core**, **RestAPIs**, **SignalR Service** , **Microservice Architecture** , **SQL**, **Azure**
 - 📫 Reach me: [github.com/md farid uddin kiron](https://github.com/kironiitdu/fariduddin.github.io)
 - 📝 Checkout my [Resume](https://github.com/kironiitdu/fariduddin.github.io) Or [Download](https://github.com/kironiitdu/fariduddin.github.io/blob/main/Resume_Md_Farid_Uddin.pdf)
 
