@@ -40,7 +40,7 @@
 
 
 ![C#](https://img.shields.io/badge/-CSharp-purple?style=square&logo=csharp)
-![.NET](https://img.shields.io/badge/-.NET-purple?style=square&logo=.net)
+![.NET-Web API](https://img.shields.io/badge/-.NET-purple?style=square&logo=.net)
 ![Python](https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54)
 
 
@@ -63,7 +63,7 @@
 
 
 
-![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=square&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=square&logo=microsoft-azure&logoColor=white)
 ![Azure Function](https://img.shields.io/badge/Azure_Functions-0062AD?style=square&logo=azure-functions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-blue?style=square&logo=azure-devops&logoColor=white)
 
