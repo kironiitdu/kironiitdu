@@ -36,9 +36,40 @@
 
 #### My Working Stack
 
-<img height="48" src="https://i.stack.imgur.com/oWGrm.jpg" alt="csharp"> <img height="48" src="https://i.stack.imgur.com/IIo31.png" alt="aspnet"> <img height="48" src="https://i.stack.imgur.com/yyKuB.png" alt="webapi"> <img height="48" src="https://i.stack.imgur.com/PnmVz.png" alt="entityframework"> <img height="48" src="https://i.stack.imgur.com/lpa9T.png" alt="sqlserver"> <img height="48" src="https://i.stack.imgur.com/MdgyF.png" alt="js"> 
-<img height="48" src="https://i.stack.imgur.com/B9Tl9.jpg" alt="kendoUI">
-<img height="48" src="https://i.stack.imgur.com/BLt3h.png" alt="azure"> <img height="48" src="https://i.stack.imgur.com/JeLf4.png" alt="git"> <img height="48" src="https://i.stack.imgur.com/Rch1N.png" alt="azuredevopps"> 
+
+
+
+![C#](https://img.shields.io/badge/-CSharp-purple?style=square&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-purple?style=square&logo=.net)
+![Python](https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54)
+
+
+
+![MSSQL](https://img.shields.io/badge/-MSSQL-white?style=square&logoColor=red&logo=microsoft-sql-server)
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=square&logo=mongodb&logoColor=white)
+![MY SQL](https://img.shields.io/badge/MySQL-005C84?style=square&logo=mysql&logoColor=white)
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=square&logo=html5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS](https://img.shields.io/badge/-Visual_Studio-purple?style=flat-square&logo=visual-studio)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+
+
+![Microsoft Azure](https://img.shields.io/badge/-Azure-blue?style=square&logo=microsoft-azure&logoColor=white)
+![Azure Function](https://img.shields.io/badge/Azure_Functions-0062AD?style=square&logo=azure-functions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-blue?style=square&logo=azure-devops&logoColor=white)
+
+
+
+
 
 #### Development Stuffs
 
