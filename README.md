@@ -27,9 +27,9 @@
 #### Bio
 
 - 🏢 I'm currently working at <img height="12" src="https://i.stack.imgur.com/U1arX.png" alt="csharp"> [**Microsoft-Wicresoft**](https://www.wicresoftinternational.com/about-us?hsLang=en)
-- ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.yml`
+- ⚙️ I use daily: `.cs`, `.cshtml`, `.tsx` `.js`, `.sql`, `.yml`
 - 🌍 I'm mostly active within the **C# Asp.net core Community**
-- 🌱 Learning all about **WebApp, Azure**
+- 🌱 Learning all about **WebApp, Software Security Whole, Azure**
 - 💬 Ping me about **C#**, **Asp.net core**, **RestAPIs**, **SignalR Service**, **Microservice Architecture**, **SQL**, **Azure**
 - 📫 Reach me: [github.com/md farid uddin kiron](https://github.com/kironiitdu/fariduddin.github.io)
 - 📝 Checkout my [Resume](https://github.com/kironiitdu/fariduddin.github.io) Or [Download](https://github.com/kironiitdu/fariduddin.github.io/blob/main/Resume_Md_Farid_Uddin.pdf)
