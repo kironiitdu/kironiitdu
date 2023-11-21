@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/ProblemSolved-800+-success" alt="Problem Solved" />
   </a>
   <a href="https://stackoverflow.com/users/9663070/md-farid-uddin-kiron">
-    <img src="https://img.shields.io/badge/Impact-1.7M-red" />
+    <img src="https://img.shields.io/badge/Impact-1.8M-red" />
   </a>
 </p>
 
