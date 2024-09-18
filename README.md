@@ -23,7 +23,8 @@
 - ✨ Contributing to [Microsoft Partner Center Application](https://docs.microsoft.com/en-us/rest/api/partner-center-rest/);
 - 🌱 Learning about software security weakness;
 - :fire: Interested in Web App and Cloud engineering;
-- :calendar: Looking for contributing to .NET based enterprise projects; 
+- :calendar: Looking for contributing to .NET based enterprise projects;
+- ⚙️ Microsoft CARE behavior trained customer on call support expertise; 
 
 #### Bio
 
