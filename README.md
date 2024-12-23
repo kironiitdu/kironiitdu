@@ -82,6 +82,12 @@
  
 </p>
 
+#### Follow My Recent Blogs
+- [Building a Secure and User-Friendly Job and Candidate Hunting Platform Using .NET 9 and Tailwind](https://medium.com/@dotnetkiron/building-a-secure-and-user-friendly-job-and-candidate-hunting-platform-using-net-9-and-tailwind-5c2a1afd92f4)
+- [Dynamic Binding of Route Parameters in ASP.NET Core with a Custom Model Binder](https://medium.com/@dotnetkiron/dynamic-binding-of-route-parameters-in-asp-net-core-with-a-custom-model-binder-9d830f1014f1)
+- [Microservices in .NET with ASP.NET Core 9](https://medium.com/@dotnetkiron/microservices-in-net-with-asp-net-core-8-3d2a52dbd1fa)
+- [The Problem with Typical Tech Interviews: Absurd Questions and How to Spot a Waste of Time](https://medium.com/@dotnetkiron/the-problem-with-typical-tech-interviews-nonsensical-questions-and-how-to-spot-a-waste-of-time-6e064e5606c1)
+- [Common Mistakes in Software Development and Security Flaws: How to Protect Them Using Hashing and Encryption in Asp.net core using C#.](https://medium.com/@dotnetkiron/common-mistakes-in-software-development-and-security-flaws-how-to-protect-them-using-hashing-and-0d4bc247a7b6)
 
 #### Reach Out Me
 
