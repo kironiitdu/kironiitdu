@@ -20,7 +20,7 @@
 
 #### Recent
 
-- ✨ Contributing to [Microsoft Partner Center Application](https://docs.microsoft.com/en-us/rest/api/partner-center-rest/);
+- ✨ Contributing to [Job Hunting web applicaton and E-commerce](https://collabera.com/);
 - 🌱 Learning about software security weakness;
 - :fire: Interested in Web App and Cloud engineering;
 - :calendar: Looking for contributing to .NET based enterprise projects;
