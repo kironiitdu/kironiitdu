@@ -14,7 +14,7 @@
 
 > I’m a [Microsoft certified](https://learn.microsoft.com/en-us/users/fariduddinkironmsft-5690/transcript/dee6ni2x0rk8qqn) software engineer specializing in building Web Applications. I love building WebApplication using `ASP.NET Core` (`MVC Razor Pages`-`Javascript`). As for the backend, I work with `ASP.NET Core WebAPIs`, `SignalR Service` & `SQL` following Microservice (`Ocelot`) & Clean Architecture Principles. I have extensive experience on `Azure` as well. 
 > 
-> I am an active community contributor too, where I try to assist developers resolving their development challenges. My [Stackoverflow](https://stackoverflow.com/users/9663070/md-farid-uddin-kiron) contains over `1100+` detailed solution of various programming problems ([linked to Github Repositories](https://github.com/kironiitdu?tab=repositories)) around Microsoft Technologies that brings me around `2.1M` readers. I occasionally publish articles on [Medium](https://medium.com/@dotnetkiron), Code Maze, and other blogs if time allows me.
+> I am an active community contributor too, where I try to assist developers resolving their development challenges. My [Stackoverflow](https://stackoverflow.com/users/9663070/md-farid-uddin-kiron) contains over `1100+` detailed solution of various programming problems ([linked to Github Repositories](https://github.com/kironiitdu?tab=repositories)) around Microsoft Technologies that brings me around `2.6M` readers. I occasionally publish articles on [Medium](https://medium.com/@dotnetkiron), Code Maze, and other blogs if time allows me.
 
 
 
