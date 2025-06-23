@@ -53,6 +53,8 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-white?style=square&logoColor=red&logo=microsoft-sql-server)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=square&logo=mongodb&logoColor=white)
 ![MY SQL](https://img.shields.io/badge/MySQL-005C84?style=square&logo=mysql&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-0A0A0A?style=square&logo=strapi&logoColor=white)
+
 
 
 
