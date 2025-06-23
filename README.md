@@ -44,6 +44,9 @@
 ![C#](https://img.shields.io/badge/-CSharp-purple?style=square&logo=csharp)
 ![.NET-Web API](https://img.shields.io/badge/-.NET-purple?style=square&logo=.net)
 ![Python](https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=square&logo=next.js&logoColor=white)
+
 
 
 
