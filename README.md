@@ -90,6 +90,15 @@
  
 </p>
 
+
+#### Follow My Recent Blogs
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="Clean and Scalable eCommerce Apps in C# Using MediatR and CQRS"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Clean and Scalable eCommerce Apps in C# Using MediatR and CQRS">
+
+<a target="_blank" href="https://medium.com/@dotnetkiron/building-a-secure-and-user-friendly-job-and-candidate-hunting-platform-using-net-9-and-tailwind-5c2a1afd92f4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Building a Secure and User-Friendly Job and Candidate Hunting Platform Using .NET 9 and Tailwind"> </a>
+
 #### Follow My Recent Blogs
 - [Clean and Scalable eCommerce Apps in C# Using MediatR and CQRS](https://medium.com/@dotnetkiron/building-clean-and-scalable-ecommerce-apps-in-c-using-mediatr-and-cqrs-9b6084d29664)
 - [Building a Secure and User-Friendly Job and Candidate Hunting Platform Using .NET 9 and Tailwind](https://medium.com/@dotnetkiron/building-a-secure-and-user-friendly-job-and-candidate-hunting-platform-using-net-9-and-tailwind-5c2a1afd92f4)
