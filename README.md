@@ -31,7 +31,7 @@
 
 #### Bio
 
-- 🏢 I'm ex <img height="12" src="https://i.sstatic.net/U1arX.png" alt="csharp"> [**Microsoft** developer](https://www.wicresoftinternational.com/about-us?hsLang=en)
+- 🏢 I'm ex <img height="12" src="https://i.sstatic.net/U1arX.png" alt="csharp"> [**Microsoft** developer](https://learn.microsoft.com/en-us/users/fariduddinkironmsft-5690/transcript/dee6ni2x0rk8qqn)
 - ⚙️ I use daily: `.cs`, `.cshtml`, `.tsx` `.js`, `.sql`, `.yml`
 - 🌍 I'm mostly active within the **C# Asp.net core Community**
 - 🌱 Learning all about **WebApp, Software Security Whole, Azure**
